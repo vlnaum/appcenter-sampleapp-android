@@ -1,4 +1,4 @@
-package ms.appcenter.sampleapp.android;
+package ms.appcenter.sampleapp.androidblahblah;
 
 import android.os.Bundle;
 import android.util.Log;
